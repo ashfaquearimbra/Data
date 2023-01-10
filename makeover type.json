@@ -1,0 +1,38 @@
+db.makeoverType.insert([
+    {
+        "makeovertype_id": 1,
+        "makeovertype": "hair smoothening",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/hair smoothening.jpg",
+    },
+    {
+        "makeovertype_id": 2,
+        "makeovertype": "Facial",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/face1.jpg",
+    },
+    {
+        "makeovertype_id": 3,
+        "makeovertype": "HD makeover",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/hd makeover.jpg",
+    },
+    {
+        "makeovertype_id": 4,
+        "makeovertype": "Mehandhi",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/mehandhi1.jpg",
+    },
+    {
+        "makeovertype_id": 5,
+        "makeovertype": "Saree drapping",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/saree drapping1.jpg",
+    },
+    {
+        "makeovertype_id": 6,
+        "makeovertype": "wax",
+        "content": "Start your day with exclusive makeover options",
+        "makeover_image": "./images/wax.jpg",
+    },
+])

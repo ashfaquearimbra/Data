@@ -1,0 +1,58 @@
+db.orders.insert([
+    {
+        "_id": "62514d42f5aec503b2e0f2a9",
+        "name": "Aakash",
+        "email": "aakash@gmail.com",
+        "address": "Pulikkal house,malappuram",
+        "phone": 768768686,
+        "cost": 787,
+        "makeoverItem": [
+            1,
+            2,
+            3
+        ],
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d69f5aec503b2e0f2aa",
+        "name": "Anchal",
+        "email": "anchal@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 768768686,
+        "cost": 124,
+        "makeoverItem": [
+            4,
+            5,
+            6
+        ],
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d77f5aec503b2e0f2ab",
+        "name": "Anu",
+        "email": "anu@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 9061998418,
+        "cost": 344,
+        "makeoverItem": [
+            1,
+            4,
+            2
+        ],
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d8bf5aec503b2e0f2ac",
+        "name": "Ashu",
+        "email": "ashfaquearimbra@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 9645081327,
+        "cost": 431,
+        "makeoverItem": [
+            3,
+            2,
+            1
+        ],
+        "status": "Pending"
+    }
+])
